@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MoBo/Documents/GitHub/sixaxispairer/hidapi/hidapi.h
+wchar.h
+-
+
+/Users/MoBo/Documents/GitHub/sixaxispairer/main.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+hidapi/hidapi.h
+/Users/MoBo/Documents/GitHub/sixaxispairer/hidapi/hidapi.h
+

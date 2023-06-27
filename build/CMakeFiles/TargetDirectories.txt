@@ -1,0 +1,3 @@
+/Users/MoBo/Documents/GitHub/sixaxispairer/build/CMakeFiles/rebuild_cache.dir
+/Users/MoBo/Documents/GitHub/sixaxispairer/build/CMakeFiles/edit_cache.dir
+/Users/MoBo/Documents/GitHub/sixaxispairer/build/CMakeFiles/sixaxispairing.dir
